@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20">
+  <g id="Group_3333" data-name="Group 3333" transform="translate(-24 -338)">
+    <g id="schedule_icon" data-name="schedule icon" transform="translate(24 338)">
+      <path id="Path_3372" data-name="Path 3372" d="M19,3H18V1H16V3H8V1H6V3H5A2.006,2.006,0,0,0,3,5V19a2.006,2.006,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2V5A2.006,2.006,0,0,0,19,3Zm0,16H5V9H19ZM5,7V5H19V7Z" transform="translate(-3 -1)" fill="currentColor"/>
+    </g>
+    <rect id="Rectangle_210" data-name="Rectangle 210" width="10" height="2" transform="translate(28 348)" fill="currentColor"/>
+    <rect id="Rectangle_211" data-name="Rectangle 211" width="7" height="2" transform="translate(29 352)" fill="currentColor"/>
+  </g>
+</svg>
